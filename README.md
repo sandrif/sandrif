@@ -1,51 +1,52 @@
-# Hi, I'm Sandra — QA Lead, Software Engineer & Systems Integration Specialist
+# Sandra Faltysová
 
-I’m a Software Engineer with a passion for building **reliable, scalable, and well-designed systems**.  
-My background blends **full-stack development**, **backend engineering**, and **enterprise integrations**, strengthened by hands-on experience with **quality engineering and automation**.
+**Software Engineer · QA Lead · Systems Integration**
 
-I’m currently working on:
-- Full-stack applications using **Node.js**, **Express.js**, **React**, and **JavaScript/TypeScript**  
-- Integration flows and backend services 
-- Automation tooling and validation frameworks supporting distributed systems  
-- Continuous learning in system design, architecture patterns, and cloud technologies  
+I specialize in backend engineering, enterprise integrations,
+and quality — building systems that are reliable by design,
+not by accident.
 
----
-
-## Tech Stack
-
-**Languages:**  
-JavaScript · TypeScript · Node.js · Java · Groovy · SQL
-
-**Backend / Full-Stack:**  
-Express.js · REST APIs · Integration Architectures · Microservices
-
-**Frontend:**  
-React · HTML · CSS · UI Frameworks
-
-**Cloud / Integrations:**  
-SAP BTP · SAP Cloud Integration Suite (CIS) · iPaaS · ADP / NetSuite integrations
-
-**Testing & Quality:**  
-Automation Frameworks · API Testing · Integration Testing
+Currently investing in a structured engineering curriculum:
+deepening backend architecture (Java · Spring Boot),
+full-stack patterns (TypeScript · React), and
+production fundamentals — cloud, observability, system design.
 
 ---
 
-## Personal Projects
+## Core expertise
 
-I enjoy working on **full-stack apps** in my free time, focusing on:
+**Integrations** — SAP Cloud Integration Suite · iPaaS · ADP · NetSuite  
+**Backend** — Node.js · Express.js · REST APIs · Microservices · MongoDB
+**Quality** — QA strategy · API & integration testing · automation frameworks  
+**Frontend** — React · TypeScript · HTML/CSS  
+**Languages** — JavaScript · TypeScript · Java · SQL · Groovy  
 
-- ♻️ Clean backend architecture  
-- 🔌 API integrations  
-- 🎨 Modern and minimalistic UIs  
-- 🧩 End-to-end product thinking
+---
 
+## Engineering curriculum (2026–2027)
+
+A deliberate, project-driven path toward senior full-stack and
+backend engineering.
+
+| Quarter | Focus | Stack |
+|---|---|---|
+| Q1 | REST APIs, auth, testing, CI/CD | Java · Spring Boot · PostgreSQL · Docker |
+| Q2 | Full-stack, OAuth2, caching | React · TypeScript · Redis · NestJS |
+| Q3 | Data services, async, observability | Python · FastAPI · Kafka · Grafana |
+| Q4 | Cloud, IaC, production hardening | AWS/Azure · Terraform · OpenTelemetry |
+
+---
+
+## Projects
+
+*(Q1 project — Task & Team Management API)*
 
 ---
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/sandrafaltysova](https://linkedin.com/in/sandrafaltysova)  
-- Email: **sandra.faltysova@duck.com**
+[linkedin.com/in/sandrafaltysova](https://linkedin.com/in/sandrafaltysova)
+sandra.faltysova@duck.com
 
 ---
 
