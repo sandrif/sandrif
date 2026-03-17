@@ -16,7 +16,6 @@ production fundamentals — cloud, observability, system design.
 
 **Integrations** — SAP Cloud Integration Suite · iPaaS · ADP · NetSuite  
 **Backend** — Node.js · Express.js · REST APIs · Microservices · MongoDB
-
 **Quality** — QA strategy · API & integration testing · automation frameworks  
 **Frontend** — React · TypeScript · HTML/CSS  
 **Languages** — JavaScript · TypeScript · Java · SQL · Groovy  
@@ -45,7 +44,6 @@ backend engineering.
 
 ## Connect
 
-[linkedin.com/in/sandrafaltysova](https://linkedin.com/in/sandrafaltysova)
 sandra.faltysova@duck.com
 
 ---
