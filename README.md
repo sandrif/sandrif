@@ -1,4 +1,3 @@
-# Sandra Faltysová
 
 **Software Engineer · QA Lead · Systems Integration**
 
