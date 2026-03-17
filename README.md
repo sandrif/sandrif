@@ -5,7 +5,7 @@ My background blends **full-stack development**, **backend engineering**, and **
 
 I’m currently working on:
 - Full-stack applications using **Node.js**, **Express.js**, **React**, and **JavaScript/TypeScript**  
-- Integration flows and backend services on **SAP Cloud Integration Suite**  
+- Integration flows and backend services 
 - Automation tooling and validation frameworks supporting distributed systems  
 - Continuous learning in system design, architecture patterns, and cloud technologies  
 
