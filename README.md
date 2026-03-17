@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Sandra — Software Engineer & Systems Integration Specialist
+# Hi, I'm Sandra — Software Engineer & Systems Integration Specialist
 
 I’m a Software Engineer with a passion for building **reliable, scalable, and well-designed systems**.  
 My background blends **full-stack development**, **backend engineering**, and **enterprise integrations**, strengthened by hands-on experience with **quality engineering and automation**.
 
 I’m currently working on:
-- 🔧 Full-stack applications using **Node.js**, **Express.js**, **React**, and **JavaScript/TypeScript**  
-- 🔄 Integration flows and backend services on **SAP Cloud Integration Suite**  
-- 🧪 Automation tooling and validation frameworks supporting distributed systems  
-- 📚 Continuous learning in system design, architecture patterns, and cloud technologies  
+- Full-stack applications using **Node.js**, **Express.js**, **React**, and **JavaScript/TypeScript**  
+- Integration flows and backend services on **SAP Cloud Integration Suite**  
+- Automation tooling and validation frameworks supporting distributed systems  
+- Continuous learning in system design, architecture patterns, and cloud technologies  
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 **Languages:**  
 JavaScript · TypeScript · Node.js · Java · Groovy · SQL
@@ -20,7 +20,7 @@ JavaScript · TypeScript · Node.js · Java · Groovy · SQL
 Express.js · REST APIs · Integration Architectures · Microservices
 
 **Frontend:**  
-React · HTML · CSS · UI Frameworks *(as used in personal projects)*
+React · HTML · CSS · UI Frameworks
 
 **Cloud / Integrations:**  
 SAP BTP · SAP Cloud Integration Suite (CIS) · iPaaS · ADP / NetSuite integrations
@@ -28,12 +28,9 @@ SAP BTP · SAP Cloud Integration Suite (CIS) · iPaaS · ADP / NetSuite integrat
 **Testing & Quality:**  
 Automation Frameworks · API Testing · Integration Testing
 
-**Tools:**  
-Git · GitHub · Postman · Docker · Kibana · Jira
-
 ---
 
-## 🛠 Personal Projects
+## Personal Projects
 
 I enjoy working on **full-stack apps** in my free time, focusing on:
 
@@ -42,19 +39,15 @@ I enjoy working on **full-stack apps** in my free time, focusing on:
 - 🎨 Modern and minimalistic UIs  
 - 🧩 End-to-end product thinking
 
-You can find active WIP projects and experiments pinned below ⬇️  
-(More to come — I'm currently expanding my portfolio.)
 
 ---
 
-## 📫 Connect
+## Connect
 
 - LinkedIn: [linkedin.com/in/sandrafaltysova](https://linkedin.com/in/sandrafaltysova)  
 - Email: **sandra.faltysova@duck.com**
 
 ---
-
-### ✨ *Building reliable systems. Learning every day. Designing with purpose.*  
 
 
 <!---
