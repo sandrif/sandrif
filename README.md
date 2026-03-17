@@ -1,4 +1,4 @@
-# Hi, I'm Sandra — Software Engineer & Systems Integration Specialist
+# Hi, I'm Sandra — QA Lead, Software Engineer & Systems Integration Specialist
 
 I’m a Software Engineer with a passion for building **reliable, scalable, and well-designed systems**.  
 My background blends **full-stack development**, **backend engineering**, and **enterprise integrations**, strengthened by hands-on experience with **quality engineering and automation**.
