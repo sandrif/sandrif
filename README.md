@@ -10,6 +10,10 @@ deepening backend architecture (Java · Spring Boot),
 full-stack patterns (TypeScript · React), and
 production fundamentals — cloud, observability, system design.
 
+Hobby projects:
+- building robot
+- game 
+
 ---
 
 ## Core expertise
