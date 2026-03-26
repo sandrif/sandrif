@@ -33,6 +33,11 @@ A deliberate, project-driven path toward senior full-stack and
 backend engineering.
 
 | Quarter | Focus | Stack |
+|---|---|---|
+| Q1 | REST APIs, auth, testing, CI/CD | Java · Spring Boot · PostgreSQL · Docker |
+| Q2 | Full-stack, OAuth2, caching | React · TypeScript · Redis · NestJS |
+| Q3 | Data services, async, observability | Python · FastAPI · Kafka · Grafana |
+| Q4 | Cloud, IaC, production hardening | AWS/Azure · Terraform · OpenTelemetry |
 
 
 ---
@@ -40,7 +45,9 @@ backend engineering.
 ## Projects
 
 *(Task & Team Management API)*
+
 *(Bookings & Payments App)*
+
 *(Product Analytics Service)*
 
 ---
