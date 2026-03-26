@@ -13,13 +13,14 @@ production fundamentals — cloud, observability, system design.
 
 Hobby projects:
 - building robot
-- game 
+- games
 
 ---
 
 ## Core expertise
 
 **Backend** — Node.js · Express.js · REST APIs · Microservices · MongoDB · Postgresql
+
 **Frontend** — React · TypeScript · HTML/CSS  
 **Languages** — JavaScript · TypeScript · Java · SQL · Groovy  
 
