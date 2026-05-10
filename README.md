@@ -1,5 +1,6 @@
 ## About
 **Software Engineer & QA**
+
 Backend engineering, enterprise integrations,
 and quality — building systems that are reliable by design,
 not by accident.
@@ -19,6 +20,7 @@ Hobby projects:
 ---
 
 ## Core expertise
+
 **Backend** — Node.js · Express.js · REST APIs · Microservices · MongoDB · PostgreSQL
 **Frontend** — React · TypeScript · HTML/CSS
 **Languages** — JavaScript · TypeScript · Java · SQL · Groovy
@@ -28,6 +30,7 @@ Hobby projects:
 ---
 
 ## Engineering curriculum (2026–2027)
+
 A deliberate, project-driven path toward senior full-stack and backend engineering.
 
 | Quarter | Focus | Stack |
@@ -40,6 +43,7 @@ A deliberate, project-driven path toward senior full-stack and backend engineeri
 ---
 
 ## Projects
+
 - *(Task & Team Management API)*
 - *(Bookings & Payments App)*
 - *(Product Analytics Service)*
@@ -47,6 +51,7 @@ A deliberate, project-driven path toward senior full-stack and backend engineeri
 ---
 
 ## Security learning
+
 Exploring web application and integration security alongside engineering work.
 - OWASP Top 10 — study in progress
 - PortSwigger Academy — Web Security labs (in progress)
@@ -55,4 +60,5 @@ Exploring web application and integration security alongside engineering work.
 ---
 
 ## Connect
+
 sandrafaltysova@duck.com
