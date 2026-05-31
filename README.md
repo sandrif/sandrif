@@ -1,5 +1,5 @@
 ## About
-**Senior Quality Assurance Engineer | Enterprise Integrations | API & Integration Security & Software Engineer**
+**Senior Quality Assurance Engineer | Enterprise Integrations | API & Integration Security | Software Engineer**
 
 Backend engineering, enterprise integrations,
 and quality — building systems that are reliable by design,
@@ -22,11 +22,11 @@ Hobby projects:
 
 ## Core expertise
 
-**Backend** — Node.js · Express.js · REST APIs · Microservices · MongoDB · PostgreSQL
-**Frontend** — React · TypeScript · HTML/CSS
-**Languages** — JavaScript · TypeScript · Java · SQL · Groovy · Python
-**Integrations** — SAP Cloud Integration Suite · iPaaS · ADP · NetSuite · additional ERP systems
-**Quality** — QA strategy · API & integration testing · Automation frameworks (Selenium WebDriver, Cucumber, Playwright)
+- **Backend** — Node.js · Express.js · REST APIs · Microservices · MongoDB · PostgreSQL
+- **Frontend** — React · TypeScript · HTML/CSS
+- **Languages** — JavaScript · TypeScript · Java · SQL · Groovy · Python
+- **Integrations** — SAP Cloud Integration Suite · iPaaS · ADP · NetSuite · additional ERP systems
+- **Quality** — QA strategy · API & integration testing · Automation frameworks (Selenium WebDriver, Cucumber, Playwright)
 
 ---
 
