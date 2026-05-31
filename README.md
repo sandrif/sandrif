@@ -57,7 +57,6 @@ Web application and integration security alongside engineering work.
 - OWASP Top 10 — (in progress)
 - PortSwigger Academy — Web Security labs (in progress)
 - eJPT — (prep to take an exam in progress)
-- Writing about testing & reliability: [softwareedges](https://softwareedges.com/)
 
 ---
 
