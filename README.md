@@ -1,5 +1,5 @@
 ## About
-**Software Engineer & QA**
+**Senior Quality Assurance Engineer | Enterprise Integrations | API & Integration Security & Software Engineer**
 
 Backend engineering, enterprise integrations,
 and quality — building systems that are reliable by design,
@@ -14,8 +14,9 @@ Increasingly interested in the security dimension of what I build —
 auth flows, integration attack surfaces, and resilient system design.
 
 Hobby projects:
-- Building a robot
-- Games
+- Web design studio
+- Games development
+- IoT / Building a robot 
 
 ---
 
@@ -24,14 +25,14 @@ Hobby projects:
 **Backend** — Node.js · Express.js · REST APIs · Microservices · MongoDB · PostgreSQL
 **Frontend** — React · TypeScript · HTML/CSS
 **Languages** — JavaScript · TypeScript · Java · SQL · Groovy
-**Integrations** — SAP Cloud Integration Suite · iPaaS · ADP · NetSuite
-**Quality** — QA strategy · API & integration testing · automation frameworks
+**Integrations** — SAP Cloud Integration Suite · iPaaS · ADP · NetSuite · additional ERP systems
+**Quality** — QA strategy · API & integration testing · automation frameworks (Selenium WebDriver, Cucumber, Playwright)
 
 ---
 
 ## Engineering curriculum (2026–2027)
 
-A deliberate, project-driven path toward senior full-stack and backend engineering.
+A deliberate, project-driven path toward full-stack and backend engineering.
 
 | Quarter | Focus | Stack |
 |---------|-------|-------|
@@ -50,12 +51,13 @@ A deliberate, project-driven path toward senior full-stack and backend engineeri
 
 ---
 
-## Security learning
+## CyberSecurity and Application Security
 
-Exploring web application and integration security alongside engineering work.
-- OWASP Top 10 — study in progress
+Web application and integration security alongside engineering work.
+- OWASP Top 10 — (in progress)
 - PortSwigger Academy — Web Security labs (in progress)
-- Writing about testing & reliability: [softwareedges](https://softwareedges.super.site/)
+- eJPT — (prep to take an exam in progress)
+- Writing about testing & reliability: [softwareedges](https://softwareedges.com/)
 
 ---
 
