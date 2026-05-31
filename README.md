@@ -24,9 +24,9 @@ Hobby projects:
 
 **Backend** — Node.js · Express.js · REST APIs · Microservices · MongoDB · PostgreSQL
 **Frontend** — React · TypeScript · HTML/CSS
-**Languages** — JavaScript · TypeScript · Java · SQL · Groovy
+**Languages** — JavaScript · TypeScript · Java · SQL · Groovy · Python
 **Integrations** — SAP Cloud Integration Suite · iPaaS · ADP · NetSuite · additional ERP systems
-**Quality** — QA strategy · API & integration testing · automation frameworks (Selenium WebDriver, Cucumber, Playwright)
+**Quality** — QA strategy · API & integration testing · Automation frameworks (Selenium WebDriver, Cucumber, Playwright)
 
 ---
 
