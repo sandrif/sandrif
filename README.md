@@ -15,6 +15,7 @@ auth flows, integration attack surfaces, and resilient system design.
 
 Hobby projects:
 - Web design studio
+- Work in Kali
 
 ---
 
