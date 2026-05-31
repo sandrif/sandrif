@@ -29,7 +29,7 @@ Hobby projects:
 
 ---
 
-## Engineering curriculum (2026–2027)
+## Engineering curriculum
 
 A deliberate, project-driven path toward full-stack and backend engineering.
 
