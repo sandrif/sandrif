@@ -53,9 +53,10 @@ A deliberate, project-driven path toward full-stack and backend engineering.
 ## CyberSecurity and Application Security
 
 Web application and integration security alongside engineering work.
-- OWASP Top 10 — (in progress)
+- CompTIA Security+ - In Progress (Exam scheduled: August 2026)
+- ISC2 CSSLP - Exam Candidate (Target: November 2026)
 - PortSwigger Academy — Web Security labs (in progress)
-- eJPT — (prep to take an exam in progress)
+- eJPT — (plan to take an exam 2027)
 
 ---
 
