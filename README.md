@@ -1,21 +1,19 @@
 ## About
-**Senior Quality Assurance Engineer | Enterprise Integrations | API & Integration Security | Software Engineer**
+** Software Engineer | Senior Quality Assurance Engineer | API & Integration Security | Enterprise Integrations**
 
-Backend engineering, enterprise integrations,
-and quality — building systems that are reliable by design,
-not by accident.
+Software engineering, enterprise integrations,
+and quality.
 
 Currently investing in a structured engineering curriculum:
 deepening backend architecture (Java · Spring Boot),
 full-stack patterns (TypeScript · React), and
-production fundamentals — cloud, observability, system design.
+production — cloud, observability, system design.
 
-Increasingly interested in the security dimension of what I build —
-auth flows, integration attack surfaces, and resilient system design.
+Increasingly interested in the security dimension — integration attack surfaces, and resilient system design.
 
 Hobby projects:
-- Web design studio
-- Work in Kali
+- Web design studio - HTML, CSS, JavaScript, React
+- Learning Kali tools
 
 ---
 
@@ -24,21 +22,21 @@ Hobby projects:
 - **Backend** — Node.js · Express.js · REST APIs · Microservices · MongoDB · PostgreSQL
 - **Frontend** — React · TypeScript · HTML/CSS
 - **Languages** — JavaScript · TypeScript · Java · SQL · Groovy · Python
-- **Integrations** — SAP Cloud Integration Suite · iPaaS · ADP · NetSuite · additional ERP systems
+- **Integrations** — SAP Cloud Integration Suite · iPaaS · ADP · NetSuite · Xero · Sage Intact · QuickBooks
 - **Quality** — QA strategy · API & integration testing · Automation frameworks (Selenium WebDriver, Cucumber, Playwright)
 
 ---
 
 ## Engineering curriculum
 
-A deliberate, project-driven path toward full-stack and backend engineering.
+A project-driven path toward full-stack engineering.
 
-| Quarter | Focus | Stack |
+| Step | Focus | Stack |
 |---------|-------|-------|
-| Q1 | REST APIs, auth, testing, CI/CD | Java · Spring Boot · PostgreSQL · Docker |
-| Q2 | Full-stack, OAuth2, caching | React · TypeScript · Redis · NestJS |
-| Q3 | Data services, async, observability | Python · FastAPI · Kafka · Grafana |
-| Q4 | Cloud, IaC, production hardening & security | AWS/Azure · Terraform · OpenTelemetry |
+| 1 | REST APIs, auth, testing, CI/CD | Java · Spring Boot · PostgreSQL · Docker |
+| 2 | Full-stack, OAuth2, caching | React · TypeScript · Redis · NestJS |
+| 3 | Data services, async, observability | Python · FastAPI · Kafka · Grafana |
+| 4 | Cloud, IaC, production hardening & security | AWS/Azure · Terraform · OpenTelemetry |
 
 ---
 
